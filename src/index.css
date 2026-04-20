@@ -119,5 +119,10 @@ code {
   background: var(--code-bg);
 }
 
+/* Tática infalível para sumir com a linha teimosa */
+#root, .header, hr {
+    border-bottom: none !important;
+    border: none !important;
+}
 
 
