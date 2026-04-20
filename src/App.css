@@ -4,6 +4,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border-left: none!important;
+  border: none!important;
+  border-right: none!important;
 }
 
 .logo {
