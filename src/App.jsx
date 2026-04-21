@@ -38,11 +38,11 @@ function App() {
           </li>
           <li>
             <a
-              href="https://samyllecarvalho.github.io/MeuPortif-lio/"
+              href="https://samylleribeiro.github.io/meu-portifolio-html/"
               target="_blank"
               rel="noreferrer"
             >
-              Meu Portifólio
+              Meu Portifólio html
             </a>
           </li>
         </ul>
@@ -55,7 +55,7 @@ function App() {
         <ul className="contatos-lista">
           <li>
             <a
-              href="https://github.com/SamylleCarvalho"
+              href="https://github.com/Samylleribeiro"
               target="_blank"
               rel="noreferrer"
             >
