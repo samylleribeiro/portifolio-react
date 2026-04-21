@@ -65,17 +65,17 @@ body {
 }
 
 #root {
-  width: 100%;
-  max-width: 400px;    /* Mantém uma largura boa para celular */
-  margin: 0 auto;      /* Centraliza o bloco inteiro na tela */
-  padding: 20px;
-  box-sizing: border-box; /* Garante que o padding não "estique" o site */
+  width: 100% !important;
+  max-width: 450px !important; /* Limita a largura para não esticar demais */
+  margin: 0 auto !important;   /* Centraliza o bloco na tela */
+  padding: 20px !important;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centraliza os botões e textos internamente */
-  text-align: center;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
-
 h1,
 h2 {
   font-family: var(--heading);
