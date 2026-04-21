@@ -5,15 +5,18 @@ function App() {
     <div className="App">
       {/* SEÇÃO SOBRE */}
       <section id="sobre">
-        <h1>Samylle Ribeiro de Carvalho</h1>
+        <h1>Bem Vindos(as)</h1>
+        <p>Olá eu sou Samylle Ribeiro de Carvalho</p>
         <p>Estudante de tecnologia em sistemas para internet pela UAPI</p>
+        <p>Sou natural de Sigefredo Pacheco/PI</p>
       </section>
 
       <hr />
 
       {/* SEÇÃO 1: Meus Projetos */}
       <section id="projetos">
-        <h2>📂 Meus Projetos</h2>
+        <h2> Meus Projetos</h2>
+        <p>Tenho a honra de apresentar aqui alguns dos meus projetos</p>
         <ul className="lista-projetos">
           <li>
             <a
@@ -47,7 +50,8 @@ function App() {
 
       {/* SEÇÃO 2: Contatos */}
       <section id="contatos">
-        <h2>📱 Contatos</h2>
+        <h2> Contatos</h2>
+        <p>Fale comigo atravez dos seguintes canais:</p>
         <ul className="contatos-lista">
           <li>
             <a
