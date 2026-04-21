@@ -66,13 +66,14 @@ body {
 
 #root {
   width: 100%;
-  max-width: 500px; /* Isso centraliza e evita que os botões estiquem demais */
-  margin: 0 auto;   /* Centraliza o bloco na tela */
+  max-width: 400px;    /* Mantém uma largura boa para celular */
+  margin: 0 auto;      /* Centraliza o bloco inteiro na tela */
   padding: 20px;
-  text-align: center;
+  box-sizing: border-box; /* Garante que o padding não "estique" o site */
   display: flex;
   flex-direction: column;
-  gap: 10px;        /* Dá um espacinho extra entre os elementos */
+  align-items: center; /* Centraliza os botões e textos internamente */
+  text-align: center;
 }
 
 h1,
