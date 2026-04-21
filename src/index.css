@@ -128,4 +128,14 @@ code {
     border: none !important;
 }
 
+/* Isso aqui vai forçar o fundo a mudar de qualquer jeito */
+html, body {
+  background-color: #f8f9fa !important;
+}
 
+/* Garante que NADA tenha borda ou linha */
+#root, .header, hr, div {
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
