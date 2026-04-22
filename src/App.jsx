@@ -45,6 +45,15 @@ function App() {
               Meu Portifólio html
             </a>
           </li>
+          <li>
+            <a
+              href=" https://samylleribeiro.github.io/calculadora-de-porcentagem/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de Porcentagem
+            </a>
+          </li>
         </ul>
       </section>
 
