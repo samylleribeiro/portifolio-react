@@ -54,6 +54,16 @@ function App() {
               Calculadora de Porcentagem
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/ferramenta-positivo-negativo/
+/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Ferramenta positivo ou negativo
+            </a>
+          </li>
         </ul>
       </section>
 
