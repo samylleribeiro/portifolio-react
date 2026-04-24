@@ -81,6 +81,15 @@ function App() {
               Calculadora para multiplicação
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-para-subtrair/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para subtração
+            </a>
+          </li>
         </ul>
       </section>
 
