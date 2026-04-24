@@ -90,6 +90,15 @@ function App() {
               Calculadora para subtração
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-para-somar/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para somar
+            </a>
+          </li>
         </ul>
       </section>
 
