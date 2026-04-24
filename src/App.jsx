@@ -72,6 +72,15 @@ function App() {
               Calculadora para divisão
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-para-multiplicar./"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para multiplicação
+            </a>
+          </li>
         </ul>
       </section>
 
