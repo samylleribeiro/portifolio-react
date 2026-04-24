@@ -56,12 +56,20 @@ function App() {
           </li>
           <li>
             <a
-              href="https://samylleribeiro.github.io/ferramenta-positivo-negativo/
-/"
+              href="https://samylleribeiro.github.io/ferramenta-positivo-negativo/"
               target="_blank"
               rel="noreferrer"
             >
               Ferramenta positivo ou negativo
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-para-divisao/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para divisão
             </a>
           </li>
         </ul>
