@@ -99,6 +99,15 @@ function App() {
               Calculadora para somar
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/media-aritmetica/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para média
+            </a>
+          </li>
         </ul>
       </section>
 
