@@ -117,6 +117,15 @@ function App() {
               Calculadora para potência
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/raiz/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para raiz
+            </a>
+          </li>
         </ul>
       </section>
 
