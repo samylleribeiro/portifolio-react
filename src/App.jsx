@@ -108,6 +108,15 @@ function App() {
               Calculadora para média
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/potência/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para potência
+            </a>
+          </li>
         </ul>
       </section>
 
