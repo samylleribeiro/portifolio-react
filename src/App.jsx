@@ -20,7 +20,7 @@ function App() {
         <ul className="lista-projetos">
           <li>
             <a
-              href="https://samyllecarvalho.github.io/ferramenta-par-ou-impar/"
+              href="https://samylleribeiro.github.io/ferramenta-par-impar/"
               target="_blank"
               rel="noreferrer"
             >
@@ -124,6 +124,15 @@ function App() {
               rel="noreferrer"
             >
               Calculadora para raiz
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/identificar-se/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Ferramenta identificação
             </a>
           </li>
         </ul>
