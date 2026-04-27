@@ -135,7 +135,26 @@ function App() {
               Ferramenta identificação
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/pitagoras-hipotenusa/" 
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora pitágoras/hipotenusa
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/pitagoras-cateto/" 
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora pitágoras/cateto
+            </a>
+          </li>
         </ul>
+
       </section>
 
       {/* SEÇÃO 2: Contatos */}
