@@ -171,6 +171,15 @@ function App() {
               Calculadora para equação do primeiro grau
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-multifuncional/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora Multifuncional
+            </a>
+          </li>
         </ul>
 
       </section>
