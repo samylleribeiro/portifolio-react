@@ -153,6 +153,24 @@ function App() {
               Calculadora pitágoras/cateto
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/resto-divisao/" 
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para resto de divisão
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/equacao-do-primeiro-grau/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para equação do primeiro grau
+            </a>
+          </li>
         </ul>
 
       </section>
