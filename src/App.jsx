@@ -189,6 +189,15 @@ function App() {
               Calculadora para equação do segundo grau
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/Conversor-medidas-distancia/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de medidas(distância)
+            </a>
+          </li>
         </ul>
 
       </section>
