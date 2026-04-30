@@ -180,6 +180,15 @@ function App() {
               Calculadora Multifuncional
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/Equacao-segundo-grau/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para equação do segundo grau
+            </a>
+          </li>
         </ul>
 
       </section>
