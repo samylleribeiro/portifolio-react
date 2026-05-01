@@ -207,6 +207,15 @@ function App() {
               Conversor de medidas(líquido)
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/Conversor-de-tempo/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de medidas(tempo)
+            </a>
+          </li>
         </ul>
 
       </section>
