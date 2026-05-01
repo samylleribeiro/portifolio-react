@@ -195,7 +195,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de medidas(distância)
+              Conversor de medidas(comprimento/distância)
             </a>
           </li>
           <li>
@@ -213,7 +213,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de medidas(tempo)
+              Conversor de tempo
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/conversor-temperatura/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de temperatura
             </a>
           </li>
         </ul>
