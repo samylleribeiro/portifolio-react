@@ -195,7 +195,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de medidas(comprimento/distância)
+              Conversor de distâncias 📏
             </a>
           </li>
           <li>
@@ -204,7 +204,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de medidas(líquido)
+              Conversor de líquido 💧
             </a>
           </li>
           <li>
@@ -213,7 +213,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de tempo
+              Conversor de tempo ⏲️
             </a>
           </li>
           <li>
@@ -222,7 +222,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de temperatura
+              Conversor de temperatura 🌡️
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-imc/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de IMC ⚖️
             </a>
           </li>
         </ul>
