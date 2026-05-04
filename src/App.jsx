@@ -240,7 +240,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Medidor de glicemia🩸💉
+              Medidor de glicemia🩸
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/medidor-colesterol/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de colesterol🩸
             </a>
           </li>
         </ul>
