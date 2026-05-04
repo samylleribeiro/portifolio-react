@@ -249,7 +249,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Medidor de colesterol🩸
+              Medidor de colesterol🩸🧪
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/medidor-triglicerideos/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de triglicerídeos🩸🔬
             </a>
           </li>
         </ul>
