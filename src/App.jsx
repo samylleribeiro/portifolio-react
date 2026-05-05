@@ -261,10 +261,19 @@ function App() {
               Medidor de triglicerídeos🩸🔬
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/medidor-temperatura/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de temperatura corporal🌡️🤒
+            </a>
+          </li>
         </ul>
 
       </section>
-
+      <hr />
       {/* SEÇÃO 2: Contatos */}
       <section id="contatos">
         <h2> Contatos</h2>
