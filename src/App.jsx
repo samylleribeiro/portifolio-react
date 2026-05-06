@@ -279,6 +279,15 @@ function App() {
               Medidor de pressão arterial🩺💓
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-hidratacao/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de hidratação💧
+            </a>
+          </li>
         </ul>
 
       </section>
