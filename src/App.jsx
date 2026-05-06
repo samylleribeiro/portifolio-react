@@ -270,6 +270,15 @@ function App() {
               Medidor de temperatura corporal🌡️🤒
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/medidor-pressao/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de pressão arterial🩺💓
+            </a>
+          </li>
         </ul>
 
       </section>
