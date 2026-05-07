@@ -288,6 +288,15 @@ function App() {
               Calculadora de hidratação💧
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/frequencia-cardiaca/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de frequência cardíaca💓🫀
+            </a>
+          </li>
         </ul>
 
       </section>
