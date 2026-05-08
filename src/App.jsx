@@ -297,6 +297,15 @@ function App() {
               Medidor de frequência cardíaca💓🫀
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/contador-passos-calorias/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Contador de passos e calorias🚶‍♂️🔥
+            </a>
+          </li>
         </ul>
 
       </section>
