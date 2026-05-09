@@ -306,6 +306,15 @@ function App() {
               Contador de passos e calorias🚶‍♂️🔥
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/frases-motivacionais/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gerador de frases motivacionais e versículos bíblicos📖💪🌟
+            </a>
+          </li>
         </ul>
 
       </section>
