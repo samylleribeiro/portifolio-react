@@ -315,9 +315,28 @@ function App() {
               Gerador de frases motivacionais e versículos bíblicos📖💪🌟
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/oracoes/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Orações 📖 📿 
+            </a>
+          </li>
+             <li>
+            <a
+              href="https://samylleribeiro.github.io/mandamentos/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Mandamentos bíblicos 📖 ✝️ 
+            </a>
+          </li>
         </ul>
 
       </section>
+      <hr />
       <hr />
       {/* SEÇÃO 2: Contatos */}
       <section id="contatos">
