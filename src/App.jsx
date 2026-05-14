@@ -333,6 +333,15 @@ function App() {
               Mandamentos bíblicos 📖 ✝️ 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/monitor-sono/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Monitor de sono 🛌💤 
+            </a>
+          </li>
         </ul>
 
       </section>
