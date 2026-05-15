@@ -342,6 +342,24 @@ function App() {
               Monitor de sono 🛌💤 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/receitas/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              App de receitas culinárias 🍳🍲 
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/pomodoro/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Cronômetro pomodoro ⏲️ 
+            </a>
+          </li>
         </ul>
 
       </section>
