@@ -360,6 +360,15 @@ function App() {
               Cronômetro pomodoro ⏲️ 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-juros-descontos/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de Juros e Descontos 💰 
+            </a>
+          </li>
         </ul>
 
       </section>
