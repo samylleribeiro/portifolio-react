@@ -369,6 +369,15 @@ function App() {
               Calculadora de Juros e Descontos 💰 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-combustivel/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de combustível(usar gasolina ou álcool?) ⛽ 
+            </a>
+          </li>
         </ul>
 
       </section>
