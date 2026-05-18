@@ -378,6 +378,24 @@ function App() {
               Calculadora de combustível(usar gasolina ou álcool?) ⛽ 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-tempo-vivido/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de tempo vivido
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/conferir-se-maior-de-idade/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de idade (já é maior de idade?)
+            </a>
+          </li>
         </ul>
 
       </section>
