@@ -396,6 +396,24 @@ function App() {
               Calculadora de idade (já é maior de idade?)
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/palavras-motivacionais/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gerador de Palavras Motivacionais 💪🌟
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/gerador-tabuada/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gerador de Tabuadas
+            </a>
+          </li>
         </ul>
 
       </section>
