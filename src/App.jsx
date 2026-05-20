@@ -414,6 +414,15 @@ function App() {
               Gerador de Tabuadas
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/relogio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Relógio Virtual ⏱️ 📅
+            </a>
+          </li>
         </ul>
 
       </section>
