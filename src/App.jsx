@@ -423,6 +423,24 @@ function App() {
               Relógio Virtual ⏱️ 📅
             </a>
           </li>
+            <li>
+            <a
+              href="https://samylleribeiro.github.io/sorteio-numeros/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Sorteio de Numeros 🎲
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/lista-tarefas/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Lista de tarefas 📋 
+            </a>
+          </li>
         </ul>
 
       </section>
