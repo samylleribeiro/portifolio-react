@@ -459,6 +459,15 @@ function App() {
                Calculadora de Gorgeta 💰
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/contador/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Contador simples de números
+            </a>
+          </li>
         </ul>
 
       </section>
