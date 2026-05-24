@@ -441,6 +441,24 @@ function App() {
               Lista de tarefas 📋 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/cronometro-simples/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Cronômetro Simples ⏱️
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-gorjeta/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora de Gorgeta 💰
+            </a>
+          </li>
         </ul>
 
       </section>
