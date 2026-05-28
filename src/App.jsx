@@ -324,6 +324,15 @@ function App() {
               Orações 📖 📿 
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/oracoes-2.0/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Orações 📖 📿(nova versão) 
+            </a>
+          </li>
              <li>
             <a
               href="https://samylleribeiro.github.io/mandamentos/"
