@@ -29,6 +29,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/par-impar/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Ferramenta Par ou Ímpar(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samyllecarvalho.github.io/calcular-m-dia/"
               target="_blank"
               rel="noreferrer"
