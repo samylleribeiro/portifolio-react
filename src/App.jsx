@@ -69,7 +69,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Ferramenta positivo ou negativo(nova versão)
+              Ferramenta positivo ou negativo
             </a>
           </li>
           <li>
@@ -78,7 +78,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Ferramenta positivo ou negativo
+              Ferramenta positivo ou negativo(nova versão)
             </a>
           </li>
           <li>
