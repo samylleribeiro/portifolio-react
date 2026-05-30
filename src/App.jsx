@@ -69,6 +69,15 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
+              Ferramenta positivo ou negativo(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/positivo-negativo/"
+              target="_blank"
+              rel="noreferrer"
+            >
               Ferramenta positivo ou negativo
             </a>
           </li>
@@ -106,6 +115,15 @@ function App() {
               rel="noreferrer"
             >
               Calculadora para somar
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/somar/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para somar(nova versão)
             </a>
           </li>
           <li>
