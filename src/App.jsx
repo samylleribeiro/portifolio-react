@@ -90,6 +90,15 @@ function App() {
               Calculadora para divisão
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/dividir/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para divisão(nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/calculadora-para-multiplicar./"
@@ -99,6 +108,15 @@ function App() {
               Calculadora para multiplicação
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/multiplicar/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para multiplicação(nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/calculadora-para-subtrair/"
@@ -106,6 +124,15 @@ function App() {
               rel="noreferrer"
             >
               Calculadora para subtração
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/subtrair/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para subtração(nova versão)
             </a>
           </li>
           <li>
