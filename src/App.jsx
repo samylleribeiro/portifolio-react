@@ -173,7 +173,7 @@ function App() {
           </li>
           <li>
             <a
-              href="https://samylleribeiro.github.io/potência/"
+              href="https://samylleribeiro.github.io/potencia/"
               target="_blank"
               rel="noreferrer"
             >
@@ -182,7 +182,7 @@ function App() {
           </li>
           <li>
             <a
-              href="https://samylleribeiro.github.io/potência-2.0/"
+              href="https://samylleribeiro.github.io/potencia-2.0/"
               target="_blank"
               rel="noreferrer"
             >
