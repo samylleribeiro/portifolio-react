@@ -65,6 +65,15 @@ function App() {
           </li>
           <li>
             <a
+              href=" https://samylleribeiro.github.io/porcentagem-2.0/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de Porcentagem(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/ferramenta-positivo-negativo/"
               target="_blank"
               rel="noreferrer"
@@ -173,6 +182,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/potência-2.0/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para potência(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/raiz/"
               target="_blank"
               rel="noreferrer"
@@ -214,6 +232,15 @@ function App() {
               rel="noreferrer"
             >
               Calculadora para resto de divisão
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/restoDivisao/" 
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para resto de divisão(nova versão)
             </a>
           </li>
           <li>
