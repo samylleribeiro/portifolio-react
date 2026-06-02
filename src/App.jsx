@@ -200,6 +200,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/raizQuadrada/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para raiz(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/identificar-se/"
               target="_blank"
               rel="noreferrer"
@@ -259,6 +268,15 @@ function App() {
               rel="noreferrer"
             >
               Calculadora Multifuncional
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadoraMultifuncional/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora Multifuncional(nova versão)
             </a>
           </li>
           <li>
