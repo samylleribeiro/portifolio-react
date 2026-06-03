@@ -263,6 +263,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/equacao-1grau/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para equação do primeiro grau(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/calculadora-multifuncional/"
               target="_blank"
               rel="noreferrer"
