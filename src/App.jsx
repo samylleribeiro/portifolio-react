@@ -299,7 +299,7 @@ function App() {
           </li>
            <li>
             <a
-              href="https://samylleribeiro.github.io/Equacao-2grau/"
+              href="https://samylleribeiro.github.io/equacao-2grau/"
               target="_blank"
               rel="noreferrer"
             >
