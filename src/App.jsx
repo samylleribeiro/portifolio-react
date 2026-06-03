@@ -297,6 +297,15 @@ function App() {
               Calculadora para equação do segundo grau
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/Equacao-2grau/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora para equação do segundo grau(nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/Conversor-medidas-distancia/"
