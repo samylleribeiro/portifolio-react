@@ -227,11 +227,29 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/hipotenusa/" 
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora pitágoras/hipotenusa(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/pitagoras-cateto/" 
               target="_blank"
               rel="noreferrer"
             >
               Calculadora pitágoras/cateto
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/cateto/" 
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora pitágoras/cateto(nova versão)
             </a>
           </li>
           <li>
