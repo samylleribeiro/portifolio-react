@@ -621,6 +621,15 @@ function App() {
                Lembrete Medicamento 💊
             </a>
           </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/calculadora-pitagoras/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora para calcular pitágoras (hipotenusa ou cateto)
+            </a>
+          </li>
         </ul>
 
       </section>
