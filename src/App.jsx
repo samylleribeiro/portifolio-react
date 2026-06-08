@@ -630,6 +630,24 @@ function App() {
                Calculadora para calcular pitágoras (hipotenusa ou cateto)
             </a>
           </li>
+          <li>
+           <a
+              href="https://samylleribeiro.github.io/media-escolar-semestral/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora para calcular média de notas(semestral)
+            </a> 
+          </li>
+          <li>
+           <a
+              href="https://samylleribeiro.github.io/media-notasDisciplinaCurso/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora para calcular média de notas(disciplina/curso)
+            </a> 
+          </li>
         </ul>
 
       </section>
