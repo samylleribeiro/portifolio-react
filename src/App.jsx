@@ -425,6 +425,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/calculadoraHidratacao/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de hidratação💧(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/frequencia-cardiaca/"
               target="_blank"
               rel="noreferrer"
