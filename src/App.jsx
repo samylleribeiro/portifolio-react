@@ -378,6 +378,15 @@ function App() {
               Medidor de glicemia🩸
             </a>
           </li>
+            <li>
+            <a
+              href="https://samylleribeiro.github.io/conferir-glicemia/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de glicemia🩸(nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/medidor-colesterol/"
@@ -387,6 +396,15 @@ function App() {
               Medidor de colesterol🩸🧪
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/conferir-colesterol/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de colesterol🩸🧪(nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/medidor-triglicerideos/"
@@ -394,6 +412,15 @@ function App() {
               rel="noreferrer"
             >
               Medidor de triglicerídeos🩸🔬
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/conferir-trigliceridio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de triglicerídeos🩸🔬(nova versão)
             </a>
           </li>
            <li>
@@ -447,7 +474,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Contador de passos e calorias🚶‍♂️🔥
+              Contador de passos e calorias 🚶‍♂️🔥
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/passos-calorias/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Contador de passos e calorias 🚶‍♂️🔥(nova versão)
             </a>
           </li>
            <li>
