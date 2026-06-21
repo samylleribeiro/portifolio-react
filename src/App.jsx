@@ -429,7 +429,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Medidor de temperatura corporal🌡️🤒
+              Medidor de temperatura corporal 🌡️🤒
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/conferir-temperatura-corporal/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de temperatura corporal 🌡️🤒(nova versão)
             </a>
           </li>
           <li>
@@ -439,6 +448,15 @@ function App() {
               rel="noreferrer"
             >
               Medidor de pressão arterial🩺💓
+            </a>
+          </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/conferir-pressao/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de pressão arterial🩺💓(nova versão)
             </a>
           </li>
           <li>
