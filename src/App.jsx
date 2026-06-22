@@ -371,6 +371,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/calculo-imc/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Calculadora de IMC ⚖️ (nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/medidor-glicemia/"
               target="_blank"
               rel="noreferrer"
