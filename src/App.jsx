@@ -497,6 +497,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/frequenciaCardiaca/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Medidor de frequência cardíaca💓🫀(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/contador-passos-calorias/"
               target="_blank"
               rel="noreferrer"
