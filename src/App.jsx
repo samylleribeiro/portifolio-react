@@ -729,6 +729,15 @@ function App() {
                Calculadora para calcular média de notas(disciplina/curso)
             </a> 
           </li>
+           <li>
+           <a
+              href="https://samylleribeiro.github.io/frequencia-respiratoria/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Conferidor de Frequência Respiratoria 🫁
+            </a> 
+          </li>
         </ul>
 
       </section>
