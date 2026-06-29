@@ -738,6 +738,24 @@ function App() {
                Conferidor de Frequência Respiratoria 🫁
             </a> 
           </li>
+           <li>
+           <a
+              href="https://samylleribeiro.github.io/calculadora-hemoglobina/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora para hemoglobina 🩸
+            </a> 
+          </li>
+           <li>
+           <a
+              href="https://samylleribeiro.github.io/calculadora-monitoramento-sodio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora para consumo de sódio diário 🧂
+            </a> 
+          </li>
         </ul>
 
       </section>
