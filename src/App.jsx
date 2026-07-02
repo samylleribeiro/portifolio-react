@@ -342,6 +342,15 @@ function App() {
               Conversor de líquido 💧
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/conversorLiquidos/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de líquido 💧(nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/Conversor-de-tempo/"
@@ -349,6 +358,15 @@ function App() {
               rel="noreferrer"
             >
               Conversor de tempo ⏲️
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/conversorTempo/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de tempo ⏲️(nova versão)
             </a>
           </li>
           <li>
@@ -754,6 +772,15 @@ function App() {
               rel="noreferrer"
             >
                Calculadora para consumo de sódio diário 🧂
+            </a> 
+          </li>
+           <li>
+           <a
+              href="https://samylleribeiro.github.io/hidratacao-diaria/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Calculadora para hidratação diária 💧
             </a> 
           </li>
         </ul>
