@@ -344,7 +344,7 @@ function App() {
           </li>
            <li>
             <a
-              href="https://samylleribeiro.github.io/conversorLiquidos/"
+              href="https://samylleribeiro.github.io/conversorLiquido/"
               target="_blank"
               rel="noreferrer"
             >
