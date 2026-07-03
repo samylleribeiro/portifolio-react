@@ -380,6 +380,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/conversorTemperatura/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de temperatura 🌡️(nova versão)
+            </a>
+          </li>
+          <li>
+            <a
               href="https://samylleribeiro.github.io/calculadora-imc/"
               target="_blank"
               rel="noreferrer"
@@ -528,7 +537,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Contador de passos e calorias 🚶‍♂️🔥
+              Conversor de Passos em Calorias 🚶‍♂️🔥
             </a>
           </li>
           <li>
@@ -537,7 +546,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Contador de passos e calorias 🚶‍♂️🔥(nova versão)
+              Conversor de Passos em Calorias 🚶‍♂️🔥(nova versão)
             </a>
           </li>
            <li>
