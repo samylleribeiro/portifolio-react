@@ -801,6 +801,15 @@ function App() {
                Calculadora para hidratação diária 💧
             </a> 
           </li>
+           <li>
+           <a
+              href="https://samylleribeiro.github.io/conversor-moeda/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Conversor de moedas 💵
+            </a> 
+          </li>
         </ul>
 
       </section>
