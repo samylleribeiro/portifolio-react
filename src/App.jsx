@@ -330,7 +330,16 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Conversor de distâncias 📏
+              Conversor de Comprimento 📏
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://samylleribeiro.github.io/conversor-comprimento/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Conversor de Comprimento 📏 (nova versão)
             </a>
           </li>
           <li>
