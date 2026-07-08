@@ -702,6 +702,15 @@ function App() {
               Lista de tarefas 📋 
             </a>
           </li>
+               <li>
+            <a
+              href="https://samylleribeiro.github.io/tarefas/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Lista de tarefas 📋 (nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/cronometro-simples/"
@@ -810,6 +819,24 @@ function App() {
                Conversor de moedas 💵
             </a> 
           </li>
+          <li>
+           <a
+              href="https://samylleribeiro.github.io/jogo-palavras/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Jogo de palavras
+            </a> 
+          </li>
+         <li>
+           <a
+              href="https://samylleribeiro.github.io/gerador-senhas/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Gerador de Senhas 🔒
+            </a> 
+          </li> 
         </ul>
 
       </section>
