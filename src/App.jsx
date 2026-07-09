@@ -569,6 +569,15 @@ function App() {
           </li>
           <li>
             <a
+              href="https://samylleribeiro.github.io/frasesMotivacionais/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gerador de frases motivacionais e versículos bíblicos📖💪🌟 (nova versão)
+            </a>
+          </li>    
+          <li> 
+            <a
               href="https://samylleribeiro.github.io/oracoes/"
               target="_blank"
               rel="noreferrer"
