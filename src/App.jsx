@@ -675,6 +675,15 @@ function App() {
               Gerador de Palavras Motivacionais 💪🌟
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/palavrasMotivacional/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gerador de Palavras Motivacionais 💪🌟 (nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/gerador-tabuada/"
@@ -846,6 +855,33 @@ function App() {
                Gerador de Senhas 🔒
             </a> 
           </li> 
+          <li>
+           <a
+              href="https://samylleribeiro.github.io/soeteio-numeros/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Sorteador de Números
+            </a> 
+          </li>
+          <li>
+           <a
+              href="https://samylleribeiro.github.io/sorteio-palavra/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Sorteador de Palavras
+            </a> 
+          </li> 
+           <li>
+           <a
+              href="https://samylleribeiro.github.io/diario/"
+              target="_blank"
+              rel="noreferrer"
+            >
+               Diário
+            </a> 
+          </li>
         </ul>
 
       </section>
