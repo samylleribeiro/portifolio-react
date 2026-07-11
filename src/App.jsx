@@ -594,6 +594,15 @@ function App() {
               Orações 📖 📿(nova versão) 
             </a>
           </li>
+           <li>
+            <a
+              href="https://samylleribeiro.github.io/livro-oracoes/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Orações 📖 📿(+ 1 versão) 
+            </a>
+          </li>
              <li>
             <a
               href="https://samylleribeiro.github.io/mandamentos/"
@@ -879,7 +888,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-               Diário
+               Diário de Anotações 
             </a> 
           </li>
         </ul>
