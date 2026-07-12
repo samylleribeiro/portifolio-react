@@ -630,6 +630,15 @@ function App() {
               App de receitas culinárias 🍳🍲 
             </a>
           </li>
+            <li>
+            <a
+              href="https://samylleribeiro.github.io/livro-receitas/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              App de receitas culinárias 🍳🍲 (nova versão)
+            </a>
+          </li>
           <li>
             <a
               href="https://samylleribeiro.github.io/pomodoro/"
